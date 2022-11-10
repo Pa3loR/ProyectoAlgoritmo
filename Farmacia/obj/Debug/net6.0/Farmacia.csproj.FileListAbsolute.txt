@@ -1,0 +1,15 @@
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\Farmacia.exe
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\Farmacia.deps.json
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\Farmacia.runtimeconfig.json
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\Farmacia.dll
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\Farmacia.pdb
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\Farmacia.csproj.AssemblyReference.cache
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\Farmacia.AssemblyInfoInputs.cache
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\Farmacia.AssemblyInfo.cs
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\Farmacia.csproj.CoreCompileInputs.cache
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\Farmacia.dll
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\refint\Farmacia.dll
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\Farmacia.pdb
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\Farmacia.genruntimeconfig.cache
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\ref\Farmacia.dll
