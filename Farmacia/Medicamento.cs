@@ -74,13 +74,14 @@ namespace SistemaFarmacia
         private int importe;
 
         //CONSTRUCTOR
+
         public Medicamentos(int cantidad, Medicamento medicine)
         {
             this.cantidad = cantidad;
             this.medicine = medicine;
             generarImporte();
         }
-
+        // SOLO  LECTURA
         public int Cantidad { get { return cantidad; } }
         public Medicamento Medicine { get { return medicine; } }
 
