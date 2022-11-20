@@ -1,0 +1,15 @@
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\SistemaFarmacia.csproj.AssemblyReference.cache
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\SistemaFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\SistemaFarmacia.AssemblyInfoInputs.cache
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\SistemaFarmacia.AssemblyInfo.cs
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\SistemaFarmacia.csproj.CoreCompileInputs.cache
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\SistemaFarmacia.exe
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\SistemaFarmacia.deps.json
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\SistemaFarmacia.runtimeconfig.json
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\SistemaFarmacia.dll
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\bin\Debug\net6.0\SistemaFarmacia.pdb
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\SistemaFarmacia.dll
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\refint\SistemaFarmacia.dll
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\SistemaFarmacia.pdb
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\SistemaFarmacia.genruntimeconfig.cache
+E:\-1Universidad Pablo\Algoritmos Teorias y Practicas\Trabajo Final\Farmacia\Farmacia\obj\Debug\net6.0\ref\SistemaFarmacia.dll

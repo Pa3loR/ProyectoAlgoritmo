@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.PortableExecutable;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -61,6 +62,12 @@ namespace SistemaFarmacia
         {
             return "Medicamento ["+ nombreComercial +", droga:  "+droga+", presentacion: "+presentacion+", laboratorio: "+nombreLaboratorio+"] PRECIO: $"+precio+" pesos";
         }
+        public override bool Equals(object? obj)
+        {
+            return obj is Medicamento medicamento &&
+                  codigo == medicamento.Codigo;
+        }
+
     }
 
     /// *****************************************************************************
@@ -79,21 +86,31 @@ namespace SistemaFarmacia
         {
             this.cantidad = cantidad;
             this.medicine = medicine;
-            generarImporte();
+            GenerarImporte();
         }
         // SOLO  LECTURA
-        public int Cantidad { get { return cantidad; } }
-        public Medicamento Medicine { get { return medicine; } }
+        public int Cantidad 
+        { 
+            get { return cantidad; }
+            set 
+            { 
+                cantidad = value;
+                GenerarImporte(); 
+            }
+        }
+        public Medicamento Medicine { get { return medicine; }
+            set { medicine = value; }
+        }
 
         public void Add()
         {
             cantidad++;
-            generarImporte();
+            GenerarImporte();
         }
         public void Add(int cant)
         {
             cantidad += cant;
-            generarImporte();
+            GenerarImporte();
         }
 
         public void Delete()
@@ -101,28 +118,44 @@ namespace SistemaFarmacia
             if (cantidad > 0)
             {
                 cantidad--;
-                generarImporte();
+                GenerarImporte();
             }
             else Console.WriteLine("No queda ningun elemento para quitar");
         }
         public void Delete(int cant)
         {
             cantidad -= cant;
-            generarImporte();
+            GenerarImporte();
         }
         public void AllDelete()
         {
             cantidad = 0;
-            generarImporte();
+            GenerarImporte();
         }
 
-        private void generarImporte() => importe = cantidad * medicine.Precio;
+        //private void generarImporte() => importe = cantidad * medicine.Precio;
+        private void GenerarImporte() 
+        { 
+            importe = cantidad * medicine.Precio; 
+        }
 
-        public int GetImporte() => importe;
+        // public int GetImporte() => importe;
+        public int GetImporte { 
+            get { 
+                GenerarImporte();
+                return importe; 
+            }
+        }
 
         public override string ToString()
         {
             return "Cantidad : " + cantidad + " de " + medicine.NombreComercial;
+        }
+
+        public override bool Equals(object? obj)
+        {
+            return obj is Medicamentos medicamentos &&
+                  medicine == medicamentos.medicine;
         }
     }
 }
